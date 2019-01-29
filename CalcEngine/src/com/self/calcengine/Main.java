@@ -1,4 +1,5 @@
-/*
+/* The codes are used to build an simple app for calculation of 2 variables.
+ *
  * Created by Shen Ren, 28/1/19 5:30 PM
  */
 

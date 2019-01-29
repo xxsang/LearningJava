@@ -5,9 +5,11 @@
 
 package com.self.calcengine;
 
-class Calculator {
+public class Calculator {
 
-    double getResult(double val1, double val2, String calOption) {
+    public Calculator() {}
+
+    public double getResult(double val1, double val2, String calOption) {
 
         //do calculation
         double result;
