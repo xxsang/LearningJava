@@ -1,8 +1,12 @@
 /*
+ * Created by Shen Ren, 30/1/19 3:48 PM
+ */
+
+/*
  * Created by Shen Ren, 30/1/19 3:06 PM
  */
 
-package com.self.com.self.inheritcalc;
+package com.self.inheritcalc;
 
 public class Divide extends BaseCalculator {
     public Divide(double val1, double val2) {

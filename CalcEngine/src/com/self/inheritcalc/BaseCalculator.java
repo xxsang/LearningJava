@@ -1,8 +1,12 @@
 /*
+ * Created by Shen Ren, 30/1/19 3:48 PM
+ */
+
+/*
  * Created by Shen Ren, 30/1/19 2:27 PM
  */
 
-package com.self.com.self.inheritcalc;
+package com.self.inheritcalc;
 
 public abstract class BaseCalculator {
     private double val1, val2, result;

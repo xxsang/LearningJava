@@ -1,8 +1,12 @@
 /*
+ * Created by Shen Ren, 30/1/19 3:48 PM
+ */
+
+/*
  * Created by Shen Ren, 30/1/19 3:04 PM
  */
 
-package com.self.com.self.inheritcalc;
+package com.self.inheritcalc;
 
 public class Multiply extends BaseCalculator{
     public Multiply(double val1, double val2) {

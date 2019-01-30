@@ -3,7 +3,7 @@
  */
 
 
-package com.self.com.self.inheritcalc;
+package com.self.inheritcalc;
 import com.self.calcengine.ReadVariables;
 
 public class Main {
