@@ -6,13 +6,13 @@ package com.self.calcengine;
 
 import java.util.Scanner;
 
-class ReadVariables {
+public class ReadVariables {
 
     private double val1;
     private double val2;
     private String calOption;
 
-    ReadVariables() {
+    public ReadVariables() {
 
         this.readFromConsole();
     }
@@ -34,7 +34,7 @@ class ReadVariables {
         this.calOption = scanner.next();
     }
 
-    double getVal1() {return this.val1;}
-    double getVal2() {return this.val2;}
-    String getCalOption() {return this.calOption;}
+    public double getVal1() {return this.val1;}
+    public double getVal2() {return this.val2;}
+    public String getCalOption() {return this.calOption;}
 }
