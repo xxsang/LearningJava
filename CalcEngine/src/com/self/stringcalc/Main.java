@@ -10,6 +10,6 @@ public class Main {
         StringReader reader = new StringReader();
         CalculatorWithOperators calculator = new CalculatorWithOperators();
         result = calculator.getResult(reader.getVal1(), reader.getVal2(), reader.getOperator());
-        System.out.printf("The result of calculation is %f", result);
+        System.out.printf("The result of calculation is %f\n", result);
     }
 }
